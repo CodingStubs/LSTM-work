@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/arthurstedman/)]
+[![LinkedIn][linkedin-shield]][[linkedin-url(https://www.linkedin.com/in/arthurstedman/)]
 
 
 
